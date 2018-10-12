@@ -11,7 +11,7 @@ My investigation is in the file "anscombe.ipynb".
 <img src='images/openipynb1.jpeg'>
 * If Jupyter Notebook is **not** installed, you should download [Anaconda](https://www.anaconda.com/download/) which supports Jupyter files, and Python code. 
 * Once Jupyter is installed, type the command, 'jupyter notebook' to open a webpage displaying the folder you're currently in. You may need to copy and paste the URL (highlighted below) that appears on the command line, if a webpage doesn't automatically open. 
-<img src='images/openipynb1.jpeg'>
+<img src='images/openipynb2.jpeg'>
 **NOTE:** When opening Jupyter notebook, ensure your downloaded ipynb file is in a subdirectory of the folder you are in.
 * From the webpage, navigate to the folder containing your ipynb file and click to open in a new tab. 
 
