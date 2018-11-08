@@ -51,7 +51,7 @@ In my evaluation, I hope to be able to summarise my own understanding of what An
 ### 5. Areas of Difficulty
 * CSV file - Last semester I wasn't able to separate data in csv file in order to examine different sets, and I cheated by using cut and paste. So here, I found a csv file with Anscombe's quartet raw data, and I wanted to use that in my analysis. I struggled to group data by set, and then to list only the range of x,y values in set 1. Used pandas package, as well as numpy. I updated my code, following a recent lecture on this topic. 
 * Sample vs. Population - I encountered various sources that had calculated variance and sample variance for these sets. As a result I calculated both in my investigation, but I believed the actual variance was the correct measure. Upon rereading Anscombe's paper I noticed he hadn't calculated either, using measures of variance I am currently unfamiliar with. I will need to do further study in this area before revisiting this topic.  
-
+* How did Anscombe create his quartet? I struggled to answer this question as I could find very little discussion online about the construction of these sets. 
 
 ### 6. A note on References
 * In my notebook, I have referenced websites and journals accessed during the course of this assignment. It goes without saying that I made extensive use of [Numpy](https://docs.scipy.org/doc/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), and [Matplotlib documentation](https://matplotlib.org/contents.html). I also referred back to my work in last semester's assignment, [here](https://github.com/MarionMcG/Python-Project-2018). 
