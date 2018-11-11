@@ -29,9 +29,10 @@ In this file you will find:
 
 **NOTE:** When opening Jupyter notebook, ensure your downloaded ipynb file is in a subdirectory of the folder you are in. You may use the cd/ command to go to the top of your directory, to ensure this is the case. Alternatively if you're familiar with commands, you may use the 'cd' command to navigate to the directory containing your notebook.
 * From the webpage, navigate to the folder containing your ipynb file and click to open in a new tab. 
+* When you are finished with your notebook, go to the taskbar, select File and then, Close and Halt. Close all windows. In your terminal, to close Jupyter Notebook press Ctrl+C.
 
 ### 3. Running code from an ipynb file
-Firstly as much of the code in this notebook is dependent on variables in previous cells, I would advise running all cells at the beginning. To do this, go to taskbar button Cell, and select Run All from the drop down menu. 
+Firstly as much of the code in this notebook is dependent on variables in previous cells, I would advise running all cells at the beginning. To do this, go to taskbar, select Cell, and select Run All from the drop down menu. 
 
 To run an individual code cell, you first need to be in command mode. In this mode there will be a blue line to the left of the cell. If you have selected a cell, but the line on the left is not blue, press Esc. 
 
@@ -54,4 +55,4 @@ In my evaluation, I hope to be able to summarise my own understanding of what An
 * How did Anscombe create his quartet? I struggled to answer this question as I could find very little discussion online about the construction of these sets. 
 
 ### 6. A note on References
-* In my notebook, I have referenced websites and journals accessed during the course of this assignment. It goes without saying that I made extensive use of [Numpy](https://docs.scipy.org/doc/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), and [Matplotlib documentation](https://matplotlib.org/contents.html). I also referred back to my work in last semester's assignment, [here](https://github.com/MarionMcG/Python-Project-2018). 
+* In my notebook, I have referenced websites and journals accessed during the course of this assignment. I also referred back to my work in last semester's assignment, [here](https://github.com/MarionMcG/Python-Project-2018). 
